@@ -40,7 +40,6 @@ Este projeto é um chatbot baseado na API Gemini do Google, desenvolvido em Pyth
  ┣ 📜 main.py        # Ponto de entrada da aplicação
  ┣ 📜 pytest.ini     # Configurações do Pytest
  ┗ 📜 requirements.txt  # Dependências do projeto
-
 ```
 
 
